@@ -1,0 +1,14 @@
+header.Header {
+    font-style: italic;
+    box-shadow: 0px 10px 10px 1px grey;
+    color: #0e3c7e; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.MainTitle {
+    font-family: 'Caveat', cursive;
+    font-size: 42px;
+}
+
+

@@ -1,0 +1,25 @@
+.Examples {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Flav.Dark{
+    height: 175px;
+    width: 200px;
+    background-color: #222;
+    color: #fff;
+    border-style: solid;
+    border-color: white;
+    box-shadow: 1px 2px 6px #222;
+    text-align: center;
+}
+.Flav {
+    border-style: solid;
+    border-color: #222;
+    color: #000;
+    height: 175px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 1px 2px 6px;
+}
